@@ -1,0 +1,21 @@
+.About{
+    margin-top: 46px;
+    float: left;
+    text-align: justify;
+}
+.heading{
+    text-align: center;
+}
+.content{
+    margin-top: 20px;
+}
+
+.card_contain{
+    width:350px;
+    height:500px;
+    margin-left: 60px;
+    margin-top: 50px;
+    float:left;
+    color:black;
+    overflow: hidden;
+}

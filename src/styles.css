@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+
+body{
+    /* background-color: #b2b2b2;
+    background-color: rgba(0, 0, 0, .3); */
+    background-color: #28282B;
+    color: white;
+}
